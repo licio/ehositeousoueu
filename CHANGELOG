@@ -1,0 +1,12 @@
+CHANGELOG
+
+1 - First version
+
+2 - New Layout, new answers
+
+  - add new answers in case the user writes no url and reply what he wrote. 
+
+3. 
+- Adde database support for save the searched urls
+- adde ajax suport in front page. 
+

@@ -1,0 +1,12 @@
+application: ehositeousoueu
+version: 4
+runtime: python
+api_version: 1
+
+handlers:
+- url: /static/images
+  static_dir: static/images
+
+- url: /.*
+  script: ehositeousoueu.py
+
